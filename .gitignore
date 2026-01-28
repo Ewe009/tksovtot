@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/WebAppTest11/WebAppTest11/Views/Web.config
+/WebAppTest11/WebAppTest11/Web.config
+/WebAppTest11/WebAppTest11/Web.Debug.config
+/WebAppTest11/WebAppTest11/Web.Release.config
+/WebAppTest11/WebAppTest11/packages.config
